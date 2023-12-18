@@ -1,0 +1,21 @@
+
+:root {
+  /* font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif; */
+  font-family:  ubuntu, Arial, serif;
+ 
+  color-scheme: light;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  font-weight: 400;
+}
+body{
+  /* background-color: #e1e1e1 !important; */
+  background-color: #f0efef !important;
+  font-family:  "ubuntu", Arial, serif !important;
+}
+
+
